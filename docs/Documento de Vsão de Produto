@@ -1,0 +1,49 @@
+# Documento de Visão do Produto
+
+## 1. Introdução
+
+Este documento apresenta a visão geral do sistema a ser desenvolvido no Projeto Integrador.
+O objetivo é descrever o problema que será resolvido, o público-alvo do sistema e os principais objetivos da aplicação.
+
+## 2. Problema
+
+Muitas aplicações e plataformas digitais necessitam de mecanismos simples e seguros para gerenciamento de usuários e controle de acesso.
+A ausência dessas funcionalidades pode dificultar o uso do sistema e comprometer a segurança das informações.
+
+## 3. Público-Alvo
+
+O sistema é destinado a usuários que precisam acessar uma plataforma digital com autenticação e gerenciamento de dados pessoais.
+
+Entre os possíveis usuários estão:
+
+* Usuários de sistemas web
+* Estudantes ou profissionais que utilizam plataformas digitais
+* Pessoas que necessitam gerenciar seus próprios dados dentro de um sistema
+
+## 4. Objetivo do Produto
+
+O objetivo do sistema é fornecer uma plataforma que permita:
+
+* Autenticação de usuários
+* Gerenciamento de perfil
+* Controle de acesso ao sistema
+* Segurança no armazenamento das informações
+
+## 5. Benefícios Esperados
+
+Com a implementação do sistema espera-se:
+
+* Melhor organização das informações
+* Maior segurança no acesso ao sistema
+* Facilidade de uso para os usuários
+* Melhor experiência de navegação na aplicação
+
+## 6. Escopo do Sistema
+
+O sistema terá como foco principal o gerenciamento de usuários, incluindo funcionalidades de login, recuperação de senha e atualização de dados do perfil.
+
+Funcionalidades mais avançadas poderão ser adicionadas durante o desenvolvimento do projeto.
+
+## 7. Considerações Finais
+
+Este documento apresenta a visão inicial do produto e poderá ser atualizado conforme novas necessidades ou requisitos forem identificados durante o desenvolvimento do projeto.
